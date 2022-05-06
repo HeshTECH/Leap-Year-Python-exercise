@@ -1,7 +1,7 @@
 
 
 Leap year or not
-Create a program that chekc if a year or not. Ask users to enter the year.
+Create a program that chech if a year is a leap year or not. Ask users to enter the year.
 
 year = int(input("Which year do you want to check?"))
 
